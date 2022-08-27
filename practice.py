@@ -1,7 +1,7 @@
 electronics = ["mobile", "computer", "PC"]
 for elec in electronics:
   print(elec)
-  print(elec + " Pie")
+  print(elec + " gadget")
 
 ##################################################
 # 🚨 Don't change the code below 👇
@@ -56,11 +56,11 @@ for number in range(1,101):
 
 Output - 
 mobile
-mobile Pie
+mobile gadget
 computer
-computer Pie
+computer gadget
 PC
-PC Pie
+PC gadget
 Input a list of student heights 34 23 56 77
 48
 Input a list of student scores 4 5 2 3 7
